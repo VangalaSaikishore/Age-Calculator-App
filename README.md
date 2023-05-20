@@ -10,12 +10,24 @@
 3. First we need to enter the required date and month then finally year
 
 4. After choosing the above input requirement then the app will provide various information like:
+
    i.     Number of years
+   
+   
    ii.    Number of months
+   
+   
    iii.   Number of days
+   
+   
    iv.    Number of hours
+   
+   
    v.     Number of seconds
+   
+   
    vi.    Number of milli seconds
+   
    
 5. It is completely user-friendly   
    
